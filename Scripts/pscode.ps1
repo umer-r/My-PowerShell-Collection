@@ -23,9 +23,9 @@
 .OUTPUTS
     Encoded|Decoded specfied string.
 .LINK
-    https://umermehmood.com/projects/pscode
+    https://github.com/umer-r/
 .NOTES
-    Author: Umer Mehmood
+    Author: Umer R.
     Dated:   Sep 25, 2022
     Version:    1.0
 #>
